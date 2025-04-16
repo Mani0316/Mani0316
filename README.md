@@ -63,7 +63,7 @@ Teamwork · Communication
 - **Ethical Hacker Course** – Cisco Networking Academy  
   *Completed on: December 19, 2023*  
   Covered ethical hacking, vulnerability scanning, exploitation, and post-exploitation techniques.  
-  ![Ethical Hacker Certificate](https://raw.githubusercontent.com/Mani0316/Mani0316/main/assets/Ethical-Hacker.jpg)
+  ![Ethical Hacker Certificate](https://github.com/Mani0316/Certificates/blob/main/Ethical-Hacker.jpg)
 
 
 
